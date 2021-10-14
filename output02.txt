@@ -1,0 +1,528 @@
+[3J[H[2JWould you Like to
+1. Start your Adventure
+2. Know the Backstory of the Game
+3. Load Game
+4. Quit
+It is the modern era of the 21st Century and Christmas is quickly nearing! Like many others, you're gearing up for the winter season to visit your parents to celebrate with them. However, your parents live all the way on the other side of the world making meeting them less than trivial. Unfortunately, this alternate timeline of the universe has no signs of an aviation industry making air travel impossible! Fortunately for you, you own a high-speed supercar and are determined to celebrate with them.
+
+Your goal is to cross the other side of the globe from Hong Kong to Argentina by car (20,000 kilometers). You start on November 1st with the hopes of making it to Argentina by December 25. The journey won't be easy - every single day will cost you resources and with your car being driven at full speed for long periods of time it could break down at any time! You can rest and sleep to recover your energy or keep driving and play a game of chance.. Do anything to make it to the end.
+
+
+Press 'Enter' to continue.
+[3J[H[2JWould you Like to
+1. Start your Adventure
+2. Know the Backstory of the Game
+3. Load Game
+4. Quit
+[3J[H[2JWhat is your first name? 
+Is Bonn correct? (y/n) 
+[3J[H[2JYou can choose a date to start which will affect the difficulty of your game.
+
+Medium is the default difficulty.
+
+
+* Story Mode: No time limit
+* Easy: September(4 months)
+* Medium: October(3 months)
+* Hard: November(2 months)
+
+What is your preferred difficulty? (story/easy/medium/hard)
+Is hard mode correct? (y/n) 
+[3J[H[2JPrior to leaving Hong Kong, you have to make some preparations and buy necessary equipment for the journey. You have $40,000 to spend, though it is not necessary to spend it all immediately. You can buy all your necessities for the journey at every stop you make. If you're going all the way to Argentina, these are the essentials. 
+
+1. Gasoline to fuel your car
+2. Food to last you the journey
+3. Spare parts to fix your car
+
+Press 'Enter' to enter the shop.[3J[H[2J[3J[H[2J-------- Your Trusty Store ------
+---------------------------------
+1. Gas                    0x    $0
+2. Food                   0x    $0
+3. Spare Car Parts        0x    $0
+4. Checkout and Leave
+
+Total cost: 0
+Your current balance: 10000
+What would you like to buy? (1/2/3/4)
+To travel 2,000km, you will need at least 140L of gasoline. It is recommended you should get an excess of 20-30L of gasoline.
+How many liters(L) of gasoline would you want to buy? It's $20/L. (Max: 2500)
+[3J[H[2J-------- Your Trusty Store ------
+---------------------------------
+1. Gas                    140x    $2800
+2. Food                   0x    $0
+3. Spare Car Parts        0x    $0
+4. Checkout and Leave
+
+Total cost: 2800
+Your current balance: 7200
+What would you like to buy? (1/2/3/4)
+It's recommended that you get at least 110kg of food for the journey.
+How many kilograms of food would you want? It's $10/kg. (Max: 2500) 
+[3J[H[2J-------- Your Trusty Store ------
+---------------------------------
+1. Gas                    140x    $2800
+2. Food                   110x    $2200
+3. Spare Car Parts        0x    $0
+4. Checkout and Leave
+
+Total cost: 5000
+Your current balance: 5000
+What would you like to buy? (1/2/3/4)
+The total cost is 5000
+Your remaining balance will be 5000
+Is there anything else you would like to buy? (y/n)
+Good luck on the long journey ahead of you!
+
+
+Press 'Enter' to continue.
+[3J[H[2JYou may: 
+
+1. Continue on Driving
+2. Stop to Rest
+3. Go Work
+4. Shop
+5. Check my Status
+6. Save my Game
+7. Load my Game
+8. I'm done playing. Quit.
+
+What do you pick?
+[3J[H[2J[3J[H[2JX---------------------------------------------------------------------------------------------------|
+Completion: 0%
+
+Fuel: 160
+Hunger: 140
+From: Hong Kong
+Destination: Macao
+Distance Travelled: 0 km
+Distance Left: 200 km
+Total Distance Travelled: 0
+Fuel required: 13
+
+[3J[H[2J|---------X-----------------------------------------------------------------------------------------|
+Completion: 10%
+
+Fuel: 158.7
+Hunger: 139
+From: Hong Kong
+Destination: Macao
+Distance Travelled: 20 km
+Distance Left: 180 km
+Total Distance Travelled: 2
+Fuel required: 13
+
+[3J[H[2J|-------------------X-------------------------------------------------------------------------------|
+Completion: 20%
+
+Fuel: 157.4
+Hunger: 138
+From: Hong Kong
+Destination: Macao
+Distance Travelled: 40 km
+Distance Left: 160 km
+Total Distance Travelled: 8
+Fuel required: 13
+
+[3J[H[2J|-----------------------------X---------------------------------------------------------------------|
+Completion: 30%
+
+Fuel: 156.1
+Hunger: 137
+From: Hong Kong
+Destination: Macao
+Distance Travelled: 60 km
+Distance Left: 140 km
+Total Distance Travelled: 18
+Fuel required: 13
+
+[3J[H[2J|---------------------------------------X-----------------------------------------------------------|
+Completion: 40%
+
+Fuel: 154.8
+Hunger: 136
+From: Hong Kong
+Destination: Macao
+Distance Travelled: 80 km
+Distance Left: 120 km
+Total Distance Travelled: 32
+Fuel required: 13
+
+[3J[H[2J|-------------------------------------------------X-------------------------------------------------|
+Completion: 50%
+
+Fuel: 153.5
+Hunger: 135
+From: Hong Kong
+Destination: Macao
+Distance Travelled: 100 km
+Distance Left: 100 km
+Total Distance Travelled: 50
+Fuel required: 13
+
+[3J[H[2J|-----------------------------------------------------------X---------------------------------------|
+Completion: 60%
+
+Fuel: 152.2
+Hunger: 134
+From: Hong Kong
+Destination: Macao
+Distance Travelled: 120 km
+Distance Left: 80 km
+Total Distance Travelled: 72
+Fuel required: 13
+
+[3J[H[2J|---------------------------------------------------------------------X-----------------------------|
+Completion: 70%
+
+Fuel: 150.9
+Hunger: 133
+From: Hong Kong
+Destination: Macao
+Distance Travelled: 140 km
+Distance Left: 60 km
+Total Distance Travelled: 98
+Fuel required: 13
+
+[3J[H[2J|-------------------------------------------------------------------------------X-------------------|
+Completion: 80%
+
+Fuel: 149.6
+Hunger: 132
+From: Hong Kong
+Destination: Macao
+Distance Travelled: 160 km
+Distance Left: 40 km
+Total Distance Travelled: 128
+Fuel required: 13
+
+[3J[H[2J|-----------------------------------------------------------------------------------------X---------|
+Completion: 90%
+
+Fuel: 148.3
+Hunger: 131
+From: Hong Kong
+Destination: Macao
+Distance Travelled: 180 km
+Distance Left: 20 km
+Total Distance Travelled: 162
+Fuel required: 13
+
+[3J[H[2J|---------------------------------------------------------------------------------------------------X
+Completion: 100%
+
+Fuel: 147
+Hunger: 130
+From: Hong Kong
+Destination: Macao
+Distance Travelled: 200 km
+Distance Left: 0 km
+Total Distance Travelled: 200
+Fuel required: 13
+
+5 days has passed. It is now day 5.
+Welcome to Thailand
+
+
+Press 'Enter' to continue.
+[3J[H[2JYou may: 
+
+1. Continue on Driving
+2. Stop to Rest
+3. Go Work
+4. Shop
+5. Check my Status
+6. Save my Game
+7. Load my Game
+8. I'm done playing. Quit.
+
+What do you pick?
+[3J[H[2J[3J[H[2JX---------------------------------------------------------------------------------------------------|
+Completion: 0%
+
+Fuel: 147
+Hunger: 130
+From: Macao
+Destination: Thailand
+Distance Travelled: 0 km
+Distance Left: 200 km
+Total Distance Travelled: 200
+Fuel required: 13
+
+[3J[H[2J|---------X-----------------------------------------------------------------------------------------|
+Completion: 10%
+
+Fuel: 145.7
+Hunger: 129
+From: Macao
+Destination: Thailand
+Distance Travelled: 20 km
+Distance Left: 180 km
+Total Distance Travelled: 202
+Fuel required: 13
+
+[3J[H[2J|-------------------X-------------------------------------------------------------------------------|
+Completion: 20%
+
+Fuel: 144.4
+Hunger: 128
+From: Macao
+Destination: Thailand
+Distance Travelled: 40 km
+Distance Left: 160 km
+Total Distance Travelled: 208
+Fuel required: 13
+
+[3J[H[2J|-----------------------------X---------------------------------------------------------------------|
+Completion: 30%
+
+Fuel: 143.1
+Hunger: 127
+From: Macao
+Destination: Thailand
+Distance Travelled: 60 km
+Distance Left: 140 km
+Total Distance Travelled: 218
+Fuel required: 13
+
+[3J[H[2J|---------------------------------------X-----------------------------------------------------------|
+Completion: 40%
+
+Fuel: 141.8
+Hunger: 126
+From: Macao
+Destination: Thailand
+Distance Travelled: 80 km
+Distance Left: 120 km
+Total Distance Travelled: 232
+Fuel required: 13
+
+[3J[H[2J|-------------------------------------------------X-------------------------------------------------|
+Completion: 50%
+
+Fuel: 140.5
+Hunger: 125
+From: Macao
+Destination: Thailand
+Distance Travelled: 100 km
+Distance Left: 100 km
+Total Distance Travelled: 250
+Fuel required: 13
+
+[3J[H[2J|-----------------------------------------------------------X---------------------------------------|
+Completion: 60%
+
+Fuel: 139.2
+Hunger: 124
+From: Macao
+Destination: Thailand
+Distance Travelled: 120 km
+Distance Left: 80 km
+Total Distance Travelled: 272
+Fuel required: 13
+
+[3J[H[2J|---------------------------------------------------------------------X-----------------------------|
+Completion: 70%
+
+Fuel: 137.9
+Hunger: 123
+From: Macao
+Destination: Thailand
+Distance Travelled: 140 km
+Distance Left: 60 km
+Total Distance Travelled: 298
+Fuel required: 13
+
+[3J[H[2J|-------------------------------------------------------------------------------X-------------------|
+Completion: 80%
+
+Fuel: 136.6
+Hunger: 122
+From: Macao
+Destination: Thailand
+Distance Travelled: 160 km
+Distance Left: 40 km
+Total Distance Travelled: 328
+Fuel required: 13
+
+[3J[H[2J|-----------------------------------------------------------------------------------------X---------|
+Completion: 90%
+
+Fuel: 135.3
+Hunger: 121
+From: Macao
+Destination: Thailand
+Distance Travelled: 180 km
+Distance Left: 20 km
+Total Distance Travelled: 362
+Fuel required: 13
+
+[3J[H[2J|---------------------------------------------------------------------------------------------------X
+Completion: 100%
+
+Fuel: 134
+Hunger: 120
+From: Macao
+Destination: Thailand
+Distance Travelled: 200 km
+Distance Left: 0 km
+Total Distance Travelled: 400
+Fuel required: 13
+
+5 days has passed. It is now day 10.
+Welcome to India
+
+
+Press 'Enter' to continue.
+[3J[H[2JYou may: 
+
+1. Continue on Driving
+2. Stop to Rest
+3. Go Work
+4. Shop
+5. Check my Status
+6. Save my Game
+7. Load my Game
+8. I'm done playing. Quit.
+
+What do you pick?
+[3J[H[2J[3J[H[2JX---------------------------------------------------------------------------------------------------|
+Completion: 0%
+
+Fuel: 134
+Hunger: 120
+From: Thailand
+Destination: India
+Distance Travelled: 0 km
+Distance Left: 200 km
+Total Distance Travelled: 400
+Fuel required: 13
+
+[3J[H[2J|---------X-----------------------------------------------------------------------------------------|
+Completion: 10%
+
+Fuel: 132.7
+Hunger: 119
+From: Thailand
+Destination: India
+Distance Travelled: 20 km
+Distance Left: 180 km
+Total Distance Travelled: 402
+Fuel required: 13
+
+[3J[H[2J|-------------------X-------------------------------------------------------------------------------|
+Completion: 20%
+
+Fuel: 131.4
+Hunger: 118
+From: Thailand
+Destination: India
+Distance Travelled: 40 km
+Distance Left: 160 km
+Total Distance Travelled: 408
+Fuel required: 13
+
+[3J[H[2J|-----------------------------X---------------------------------------------------------------------|
+Completion: 30%
+
+Fuel: 130.1
+Hunger: 117
+From: Thailand
+Destination: India
+Distance Travelled: 60 km
+Distance Left: 140 km
+Total Distance Travelled: 418
+Fuel required: 13
+
+[3J[H[2J|---------------------------------------X-----------------------------------------------------------|
+Completion: 40%
+
+Fuel: 128.8
+Hunger: 116
+From: Thailand
+Destination: India
+Distance Travelled: 80 km
+Distance Left: 120 km
+Total Distance Travelled: 432
+Fuel required: 13
+
+[3J[H[2J|-------------------------------------------------X-------------------------------------------------|
+Completion: 50%
+
+Fuel: 127.5
+Hunger: 115
+From: Thailand
+Destination: India
+Distance Travelled: 100 km
+Distance Left: 100 km
+Total Distance Travelled: 450
+Fuel required: 13
+
+[3J[H[2J|-----------------------------------------------------------X---------------------------------------|
+Completion: 60%
+
+Fuel: 126.2
+Hunger: 114
+From: Thailand
+Destination: India
+Distance Travelled: 120 km
+Distance Left: 80 km
+Total Distance Travelled: 472
+Fuel required: 13
+
+[3J[H[2J|---------------------------------------------------------------------X-----------------------------|
+Completion: 70%
+
+Fuel: 124.9
+Hunger: 113
+From: Thailand
+Destination: India
+Distance Travelled: 140 km
+Distance Left: 60 km
+Total Distance Travelled: 498
+Fuel required: 13
+
+[3J[H[2J|-------------------------------------------------------------------------------X-------------------|
+Completion: 80%
+
+Fuel: 123.6
+Hunger: 112
+From: Thailand
+Destination: India
+Distance Travelled: 160 km
+Distance Left: 40 km
+Total Distance Travelled: 528
+Fuel required: 13
+
+[3J[H[2J|-----------------------------------------------------------------------------------------X---------|
+Completion: 90%
+
+Fuel: 122.3
+Hunger: 111
+From: Thailand
+Destination: India
+Distance Travelled: 180 km
+Distance Left: 20 km
+Total Distance Travelled: 562
+Fuel required: 13
+
+[3J[H[2J|---------------------------------------------------------------------------------------------------X
+Completion: 100%
+
+Fuel: 121
+Hunger: 110
+From: Thailand
+Destination: India
+Distance Travelled: 200 km
+Distance Left: 0 km
+Total Distance Travelled: 600
+Fuel required: 13
+
+3 days has passed. It is now day 13.
+
+Oh no, you crashed! You've wasted 3 days.
+Be sure to sleep for a decreased chance of crashing.
+You don't have any spare parts either, you are hiring a mechanic from the previous country to tow your car back for repair. It costs you $8000.
+You don't have enough money to hire a mechanic, you are stranded!
+
+Press 'Enter' to continue.
+You lost, try again!

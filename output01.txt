@@ -1,0 +1,2185 @@
+[3J[H[2JWould you Like to
+1. Start your Adventure
+2. Know the Backstory of the Game
+3. Load Game
+4. Quit
+[3J[H[2JWhat is your first name? 
+Is Bob correct? (y/n) 
+[3J[H[2JYou can choose a date to start which will affect the difficulty of your game.
+
+Medium is the default difficulty.
+
+
+* Story Mode: No time limit
+* Easy: September(4 months)
+* Medium: October(3 months)
+* Hard: November(2 months)
+
+What is your preferred difficulty? (story/easy/medium/hard)
+Is easy mode correct? (y/n) 
+[3J[H[2JPrior to leaving Hong Kong, you have to make some preparations and buy necessary equipment for the journey. You have $40,000 to spend, though it is not necessary to spend it all immediately. You can buy all your necessities for the journey at every stop you make. If you're going all the way to Argentina, these are the essentials. 
+
+1. Gasoline to fuel your car
+2. Food to last you the journey
+3. Spare parts to fix your car
+
+Press 'Enter' to enter the shop.[3J[H[2J[3J[H[2J-------- Your Trusty Store ------
+---------------------------------
+1. Gas                    0x    $0
+2. Food                   0x    $0
+3. Spare Car Parts        0x    $0
+4. Checkout and Leave
+
+Total cost: 0
+Your current balance: 10000
+What would you like to buy? (1/2/3/4)
+To travel 2,000km, you will need at least 140L of gasoline. It is recommended you should get an excess of 20-30L of gasoline.
+How many liters(L) of gasoline would you want to buy? It's $20/L. (Max: 2500)
+[3J[H[2J-------- Your Trusty Store ------
+---------------------------------
+1. Gas                    140x    $2800
+2. Food                   0x    $0
+3. Spare Car Parts        0x    $0
+4. Checkout and Leave
+
+Total cost: 2800
+Your current balance: 7200
+What would you like to buy? (1/2/3/4)
+It's recommended that you get at least 110kg of food for the journey.
+How many kilograms of food would you want? It's $10/kg. (Max: 2500) 
+[3J[H[2J-------- Your Trusty Store ------
+---------------------------------
+1. Gas                    140x    $2800
+2. Food                   100x    $2000
+3. Spare Car Parts        0x    $0
+4. Checkout and Leave
+
+Total cost: 4800
+Your current balance: 5200
+What would you like to buy? (1/2/3/4)
+It's recommended that you get at least 2-3 spare tires to aid you in your journey.
+How many tires would you like to buy? It's 4000/part. (Max: 2500)
+[3J[H[2J-------- Your Trusty Store ------
+---------------------------------
+1. Gas                    140x    $2800
+2. Food                   100x    $2000
+3. Spare Car Parts        1x    $4000
+4. Checkout and Leave
+
+Total cost: 8800
+Your current balance: 1200
+What would you like to buy? (1/2/3/4)
+The total cost is 8800
+Your remaining balance will be 1200
+Is there anything else you would like to buy? (y/n)
+Good luck on the long journey ahead of you!
+
+
+Press 'Enter' to continue.
+[3J[H[2JYou may: 
+
+1. Continue on Driving
+2. Stop to Rest
+3. Go Work
+4. Shop
+5. Check my Status
+6. Save my Game
+7. Load my Game
+8. I'm done playing. Quit.
+
+What do you pick?
+[3J[H[2J[3J[H[2JX---------------------------------------------------------------------------------------------------|
+Completion: 0%
+
+Fuel: 160
+Hunger: 130
+From: Hong Kong
+Destination: Macao
+Distance Travelled: 0 km
+Distance Left: 200 km
+Total Distance Travelled: 0
+Fuel required: 13
+
+[3J[H[2J|---------X-----------------------------------------------------------------------------------------|
+Completion: 10%
+
+Fuel: 158.7
+Hunger: 129
+From: Hong Kong
+Destination: Macao
+Distance Travelled: 20 km
+Distance Left: 180 km
+Total Distance Travelled: 2
+Fuel required: 13
+
+[3J[H[2J|-------------------X-------------------------------------------------------------------------------|
+Completion: 20%
+
+Fuel: 157.4
+Hunger: 128
+From: Hong Kong
+Destination: Macao
+Distance Travelled: 40 km
+Distance Left: 160 km
+Total Distance Travelled: 8
+Fuel required: 13
+
+[3J[H[2J|-----------------------------X---------------------------------------------------------------------|
+Completion: 30%
+
+Fuel: 156.1
+Hunger: 127
+From: Hong Kong
+Destination: Macao
+Distance Travelled: 60 km
+Distance Left: 140 km
+Total Distance Travelled: 18
+Fuel required: 13
+
+[3J[H[2J|---------------------------------------X-----------------------------------------------------------|
+Completion: 40%
+
+Fuel: 154.8
+Hunger: 126
+From: Hong Kong
+Destination: Macao
+Distance Travelled: 80 km
+Distance Left: 120 km
+Total Distance Travelled: 32
+Fuel required: 13
+
+[3J[H[2J|-------------------------------------------------X-------------------------------------------------|
+Completion: 50%
+
+Fuel: 153.5
+Hunger: 125
+From: Hong Kong
+Destination: Macao
+Distance Travelled: 100 km
+Distance Left: 100 km
+Total Distance Travelled: 50
+Fuel required: 13
+
+[3J[H[2J|-----------------------------------------------------------X---------------------------------------|
+Completion: 60%
+
+Fuel: 152.2
+Hunger: 124
+From: Hong Kong
+Destination: Macao
+Distance Travelled: 120 km
+Distance Left: 80 km
+Total Distance Travelled: 72
+Fuel required: 13
+
+[3J[H[2J|---------------------------------------------------------------------X-----------------------------|
+Completion: 70%
+
+Fuel: 150.9
+Hunger: 123
+From: Hong Kong
+Destination: Macao
+Distance Travelled: 140 km
+Distance Left: 60 km
+Total Distance Travelled: 98
+Fuel required: 13
+
+[3J[H[2J|-------------------------------------------------------------------------------X-------------------|
+Completion: 80%
+
+Fuel: 149.6
+Hunger: 122
+From: Hong Kong
+Destination: Macao
+Distance Travelled: 160 km
+Distance Left: 40 km
+Total Distance Travelled: 128
+Fuel required: 13
+
+[3J[H[2J|-----------------------------------------------------------------------------------------X---------|
+Completion: 90%
+
+Fuel: 148.3
+Hunger: 121
+From: Hong Kong
+Destination: Macao
+Distance Travelled: 180 km
+Distance Left: 20 km
+Total Distance Travelled: 162
+Fuel required: 13
+
+[3J[H[2J|---------------------------------------------------------------------------------------------------X
+Completion: 100%
+
+Fuel: 147
+Hunger: 120
+From: Hong Kong
+Destination: Macao
+Distance Travelled: 200 km
+Distance Left: 0 km
+Total Distance Travelled: 200
+Fuel required: 13
+
+5 days has passed. It is now day 5.
+Welcome to Thailand
+
+
+Press 'Enter' to continue.
+[3J[H[2JYou may: 
+
+1. Continue on Driving
+2. Stop to Rest
+3. Go Work
+4. Shop
+5. Check my Status
+6. Save my Game
+7. Load my Game
+8. I'm done playing. Quit.
+
+What do you pick?
+[3J[H[2J[3J[H[2JX---------------------------------------------------------------------------------------------------|
+Completion: 0%
+
+Fuel: 147
+Hunger: 120
+From: Macao
+Destination: Thailand
+Distance Travelled: 0 km
+Distance Left: 200 km
+Total Distance Travelled: 200
+Fuel required: 13
+
+[3J[H[2J|---------X-----------------------------------------------------------------------------------------|
+Completion: 10%
+
+Fuel: 145.7
+Hunger: 119
+From: Macao
+Destination: Thailand
+Distance Travelled: 20 km
+Distance Left: 180 km
+Total Distance Travelled: 202
+Fuel required: 13
+
+[3J[H[2J|-------------------X-------------------------------------------------------------------------------|
+Completion: 20%
+
+Fuel: 144.4
+Hunger: 118
+From: Macao
+Destination: Thailand
+Distance Travelled: 40 km
+Distance Left: 160 km
+Total Distance Travelled: 208
+Fuel required: 13
+
+[3J[H[2J|-----------------------------X---------------------------------------------------------------------|
+Completion: 30%
+
+Fuel: 143.1
+Hunger: 117
+From: Macao
+Destination: Thailand
+Distance Travelled: 60 km
+Distance Left: 140 km
+Total Distance Travelled: 218
+Fuel required: 13
+
+[3J[H[2J|---------------------------------------X-----------------------------------------------------------|
+Completion: 40%
+
+Fuel: 141.8
+Hunger: 116
+From: Macao
+Destination: Thailand
+Distance Travelled: 80 km
+Distance Left: 120 km
+Total Distance Travelled: 232
+Fuel required: 13
+
+[3J[H[2J|-------------------------------------------------X-------------------------------------------------|
+Completion: 50%
+
+Fuel: 140.5
+Hunger: 115
+From: Macao
+Destination: Thailand
+Distance Travelled: 100 km
+Distance Left: 100 km
+Total Distance Travelled: 250
+Fuel required: 13
+
+[3J[H[2J|-----------------------------------------------------------X---------------------------------------|
+Completion: 60%
+
+Fuel: 139.2
+Hunger: 114
+From: Macao
+Destination: Thailand
+Distance Travelled: 120 km
+Distance Left: 80 km
+Total Distance Travelled: 272
+Fuel required: 13
+
+[3J[H[2J|---------------------------------------------------------------------X-----------------------------|
+Completion: 70%
+
+Fuel: 137.9
+Hunger: 113
+From: Macao
+Destination: Thailand
+Distance Travelled: 140 km
+Distance Left: 60 km
+Total Distance Travelled: 298
+Fuel required: 13
+
+[3J[H[2J|-------------------------------------------------------------------------------X-------------------|
+Completion: 80%
+
+Fuel: 136.6
+Hunger: 112
+From: Macao
+Destination: Thailand
+Distance Travelled: 160 km
+Distance Left: 40 km
+Total Distance Travelled: 328
+Fuel required: 13
+
+[3J[H[2J|-----------------------------------------------------------------------------------------X---------|
+Completion: 90%
+
+Fuel: 135.3
+Hunger: 111
+From: Macao
+Destination: Thailand
+Distance Travelled: 180 km
+Distance Left: 20 km
+Total Distance Travelled: 362
+Fuel required: 13
+
+[3J[H[2J|---------------------------------------------------------------------------------------------------X
+Completion: 100%
+
+Fuel: 134
+Hunger: 110
+From: Macao
+Destination: Thailand
+Distance Travelled: 200 km
+Distance Left: 0 km
+Total Distance Travelled: 400
+Fuel required: 13
+
+5 days has passed. It is now day 10.
+Welcome to India
+
+
+Press 'Enter' to continue.
+[3J[H[2JYou may: 
+
+1. Continue on Driving
+2. Stop to Rest
+3. Go Work
+4. Shop
+5. Check my Status
+6. Save my Game
+7. Load my Game
+8. I'm done playing. Quit.
+
+What do you pick?
+[3J[H[2J[3J[H[2JX---------------------------------------------------------------------------------------------------|
+Completion: 0%
+
+Fuel: 134
+Hunger: 110
+From: Thailand
+Destination: India
+Distance Travelled: 0 km
+Distance Left: 200 km
+Total Distance Travelled: 400
+Fuel required: 13
+
+[3J[H[2J|---------X-----------------------------------------------------------------------------------------|
+Completion: 10%
+
+Fuel: 132.7
+Hunger: 109
+From: Thailand
+Destination: India
+Distance Travelled: 20 km
+Distance Left: 180 km
+Total Distance Travelled: 402
+Fuel required: 13
+
+[3J[H[2J|-------------------X-------------------------------------------------------------------------------|
+Completion: 20%
+
+Fuel: 131.4
+Hunger: 108
+From: Thailand
+Destination: India
+Distance Travelled: 40 km
+Distance Left: 160 km
+Total Distance Travelled: 408
+Fuel required: 13
+
+[3J[H[2J|-----------------------------X---------------------------------------------------------------------|
+Completion: 30%
+
+Fuel: 130.1
+Hunger: 107
+From: Thailand
+Destination: India
+Distance Travelled: 60 km
+Distance Left: 140 km
+Total Distance Travelled: 418
+Fuel required: 13
+
+[3J[H[2J|---------------------------------------X-----------------------------------------------------------|
+Completion: 40%
+
+Fuel: 128.8
+Hunger: 106
+From: Thailand
+Destination: India
+Distance Travelled: 80 km
+Distance Left: 120 km
+Total Distance Travelled: 432
+Fuel required: 13
+
+[3J[H[2J|-------------------------------------------------X-------------------------------------------------|
+Completion: 50%
+
+Fuel: 127.5
+Hunger: 105
+From: Thailand
+Destination: India
+Distance Travelled: 100 km
+Distance Left: 100 km
+Total Distance Travelled: 450
+Fuel required: 13
+
+[3J[H[2J|-----------------------------------------------------------X---------------------------------------|
+Completion: 60%
+
+Fuel: 126.2
+Hunger: 104
+From: Thailand
+Destination: India
+Distance Travelled: 120 km
+Distance Left: 80 km
+Total Distance Travelled: 472
+Fuel required: 13
+
+[3J[H[2J|---------------------------------------------------------------------X-----------------------------|
+Completion: 70%
+
+Fuel: 124.9
+Hunger: 103
+From: Thailand
+Destination: India
+Distance Travelled: 140 km
+Distance Left: 60 km
+Total Distance Travelled: 498
+Fuel required: 13
+
+[3J[H[2J|-------------------------------------------------------------------------------X-------------------|
+Completion: 80%
+
+Fuel: 123.6
+Hunger: 102
+From: Thailand
+Destination: India
+Distance Travelled: 160 km
+Distance Left: 40 km
+Total Distance Travelled: 528
+Fuel required: 13
+
+[3J[H[2J|-----------------------------------------------------------------------------------------X---------|
+Completion: 90%
+
+Fuel: 122.3
+Hunger: 101
+From: Thailand
+Destination: India
+Distance Travelled: 180 km
+Distance Left: 20 km
+Total Distance Travelled: 562
+Fuel required: 13
+
+[3J[H[2J|---------------------------------------------------------------------------------------------------X
+Completion: 100%
+
+Fuel: 121
+Hunger: 100
+From: Thailand
+Destination: India
+Distance Travelled: 200 km
+Distance Left: 0 km
+Total Distance Travelled: 600
+Fuel required: 13
+
+4 days has passed. It is now day 14.
+
+Oh no, you crashed! You've wasted 4 days.
+Be sure to sleep for a decreased chance of crashing.
+Since you have car parts available, you can repair your car using them!
+As you repaired your vehicle quickly, you moved to your next destination.
+
+Welcome to Pakistan
+
+
+Press 'Enter' to continue.
+[3J[H[2JYou may: 
+
+1. Continue on Driving
+2. Stop to Rest
+3. Go Work
+4. Shop
+5. Check my Status
+6. Save my Game
+7. Load my Game
+8. I'm done playing. Quit.
+
+What do you pick?
+[3J[H[2J                                                                     
+                                  @@@@@@,                                       
+                                *@@@@@@@@@@@#.                                  
+                               *@@@@@@@@@@@@@@@@@@@@@@%                         
+                               @@@@@@@@@@@@@@@@@@@@@@@.                         
+                                @@@@@@@@@@@@@@@@@@@@@.                          
+                                 @@@@@@@@@@@@@@@@@@.                            
+                                 @@@@@@/*(@@@@@.
+                                ./@@@@@*  .*@@@@/.                                   
+                            (.,@@@@@@@@@@@@@@@@@@(                              
+                            @@@@@@@@@@@@@@@@@@@@@@@@                            
+                         #@@@@@@@@@@@@@.   @@@@@@@@@@@/                         
+                       &@@@@@@@@@@@@( ., .  .&@@@@@@@@@@(                       
+                     (@@@@@@@@@@@@    @*   /    @@@@@@@@@@,                     
+                    @@@@@@@@@@@@@   #@@.   @@@  @@@@@@@@@@@@                    
+                   @@@@@@@@@@@@@@    %@.   @@@@@@@@@@@@@@@@@@                   
+                  @@@@@@@@@@@@@@@@@          %@@@@@@@@@@@@@@@@                  
+                  @@@@@@@@@@@@@@@@@@@@@.        /@@@@@@@@@@@@@.  
+                  @@@@@@@@@@@@@@@@@@@@@.   @@&   #@@@@@@@@@@@@%                 
+                   @@@@@@@@@@@@@@   @@@.   @@@   @@@@@@@@@@@@@/                 
+                    @@@@@@@@@@@@@@     .   .    @@@@@@@@@@@@@@                  
+                     .@@@@@@@@@@@@@@@@*    .#@@@@@@@@@@@@@@@@                   
+                        @@@@@@@@@@@@@@@,   @@@@@@@@@@@@@@@@                     
+                           @@@@@@@@@@@@@@@@@@@@@@@@@@@@@                        
+                                ,%@@@@@@@@@@@@@@@@*                                                          
+  
+4 days has passed. It is now day 18.
+You have earned $11946
+Your total balance is: $13146
+
+
+Press 'Enter' to continue.
+[3J[H[2JYou may: 
+
+1. Continue on Driving
+2. Stop to Rest
+3. Go Work
+4. Shop
+5. Check my Status
+6. Save my Game
+7. Load my Game
+8. I'm done playing. Quit.
+
+What do you pick?
+[3J[H[2J
+
+
+
+          _____|~~\_____      _____________
+  _-~               \    |    \
+  _-    | )     \    |__/   \   \
+  _-         )   |   |  |     \  \
+  _-    | )     /    |--|      |  |
+ __-_______________ /__/_______|  |_________
+(                |----         |  |
+ `---------------'--\\\\      .`--'
+                              `||||  
+    
+[3J[H[2J
+
+z             
+
+          _____|~~\_____      _____________
+  _-~               \    |    \
+  _-    | )     \    |__/   \   \
+  _-         )   |   |  |     \  \
+  _-    | )     /    |--|      |  |
+ __-_______________ /__/_______|  |_________
+(                |----         |  |
+ `---------------'--\\\\      .`--'
+                              `||||  
+    
+[3J[H[2J
+  z           
+z             
+
+          _____|~~\_____      _____________
+  _-~               \    |    \
+  _-    | )     \    |__/   \   \
+  _-         )   |   |  |     \  \
+  _-    | )     /    |--|      |  |
+ __-_______________ /__/_______|  |_________
+(                |----         |  |
+ `---------------'--\\\\      .`--'
+                              `||||  
+    
+[3J[H[2J             Z         
+  z           
+z             
+
+          _____|~~\_____      _____________
+  _-~               \    |    \
+  _-    | )     \    |__/   \   \
+  _-         )   |   |  |     \  \
+  _-    | )     /    |--|      |  |
+ __-_______________ /__/_______|  |_________
+(                |----         |  |
+ `---------------'--\\\\      .`--'
+                              `||||  
+    
+7 days has passed. It is now day 25.
+You feel energetic!
+
+
+Press 'Enter' to continue.
+[3J[H[2JYou may: 
+
+1. Continue on Driving
+2. Stop to Rest
+3. Go Work
+4. Shop
+5. Check my Status
+6. Save my Game
+7. Load my Game
+8. I'm done playing. Quit.
+
+What do you pick?
+[3J[H[2J-------- Your Trusty Store ------
+---------------------------------
+1. Gas                    0x    $0
+2. Food                   0x    $0
+3. Spare Car Parts        0x    $0
+4. Checkout and Leave
+
+Total cost: 0
+Your current balance: 13146
+What would you like to buy? (1/2/3/4)
+How many tires would you like to buy? It's 4000/part. (Max: 2500)
+[3J[H[2J-------- Your Trusty Store ------
+---------------------------------
+1. Gas                    0x    $0
+2. Food                   0x    $0
+3. Spare Car Parts        1x    $4000
+4. Checkout and Leave
+
+Total cost: 4000
+Your current balance: 9146
+What would you like to buy? (1/2/3/4)
+How many liters(L) of gasoline would you want to buy? It's $20/L. (Max: 2500)
+[3J[H[2J-------- Your Trusty Store ------
+---------------------------------
+1. Gas                    50x    $1000
+2. Food                   0x    $0
+3. Spare Car Parts        1x    $4000
+4. Checkout and Leave
+
+Total cost: 5000
+Your current balance: 8146
+What would you like to buy? (1/2/3/4)
+How many kilograms of food would you want? It's $10/kg. (Max: 2500) 
+[3J[H[2J-------- Your Trusty Store ------
+---------------------------------
+1. Gas                    50x    $1000
+2. Food                   100x    $2000
+3. Spare Car Parts        1x    $4000
+4. Checkout and Leave
+
+Total cost: 7000
+Your current balance: 6146
+What would you like to buy? (1/2/3/4)
+The total cost is 7000
+Your remaining balance will be 6146
+Is there anything else you would like to buy? (y/n)
+
+Press 'Enter' to continue.
+[3J[H[2JYou may: 
+
+1. Continue on Driving
+2. Stop to Rest
+3. Go Work
+4. Shop
+5. Check my Status
+6. Save my Game
+7. Load my Game
+8. I'm done playing. Quit.
+
+What do you pick?
+[3J[H[2J[3J[H[2JX---------------------------------------------------------------------------------------------------|
+Completion: 0%
+
+Fuel: 171
+Hunger: 200
+From: India
+Destination: Pakistan
+Distance Travelled: 0 km
+Distance Left: 200 km
+Total Distance Travelled: 600
+Fuel required: 13
+
+[3J[H[2J|---------X-----------------------------------------------------------------------------------------|
+Completion: 10%
+
+Fuel: 169.7
+Hunger: 199
+From: India
+Destination: Pakistan
+Distance Travelled: 20 km
+Distance Left: 180 km
+Total Distance Travelled: 602
+Fuel required: 13
+
+[3J[H[2J|-------------------X-------------------------------------------------------------------------------|
+Completion: 20%
+
+Fuel: 168.4
+Hunger: 198
+From: India
+Destination: Pakistan
+Distance Travelled: 40 km
+Distance Left: 160 km
+Total Distance Travelled: 608
+Fuel required: 13
+
+[3J[H[2J|-----------------------------X---------------------------------------------------------------------|
+Completion: 30%
+
+Fuel: 167.1
+Hunger: 197
+From: India
+Destination: Pakistan
+Distance Travelled: 60 km
+Distance Left: 140 km
+Total Distance Travelled: 618
+Fuel required: 13
+
+[3J[H[2J|---------------------------------------X-----------------------------------------------------------|
+Completion: 40%
+
+Fuel: 165.8
+Hunger: 196
+From: India
+Destination: Pakistan
+Distance Travelled: 80 km
+Distance Left: 120 km
+Total Distance Travelled: 632
+Fuel required: 13
+
+[3J[H[2J|-------------------------------------------------X-------------------------------------------------|
+Completion: 50%
+
+Fuel: 164.5
+Hunger: 195
+From: India
+Destination: Pakistan
+Distance Travelled: 100 km
+Distance Left: 100 km
+Total Distance Travelled: 650
+Fuel required: 13
+
+[3J[H[2J|-----------------------------------------------------------X---------------------------------------|
+Completion: 60%
+
+Fuel: 163.2
+Hunger: 194
+From: India
+Destination: Pakistan
+Distance Travelled: 120 km
+Distance Left: 80 km
+Total Distance Travelled: 672
+Fuel required: 13
+
+[3J[H[2J|---------------------------------------------------------------------X-----------------------------|
+Completion: 70%
+
+Fuel: 161.9
+Hunger: 193
+From: India
+Destination: Pakistan
+Distance Travelled: 140 km
+Distance Left: 60 km
+Total Distance Travelled: 698
+Fuel required: 13
+
+[3J[H[2J|-------------------------------------------------------------------------------X-------------------|
+Completion: 80%
+
+Fuel: 160.6
+Hunger: 192
+From: India
+Destination: Pakistan
+Distance Travelled: 160 km
+Distance Left: 40 km
+Total Distance Travelled: 728
+Fuel required: 13
+
+[3J[H[2J|-----------------------------------------------------------------------------------------X---------|
+Completion: 90%
+
+Fuel: 159.3
+Hunger: 191
+From: India
+Destination: Pakistan
+Distance Travelled: 180 km
+Distance Left: 20 km
+Total Distance Travelled: 762
+Fuel required: 13
+
+[3J[H[2J|---------------------------------------------------------------------------------------------------X
+Completion: 100%
+
+Fuel: 158
+Hunger: 190
+From: India
+Destination: Pakistan
+Distance Travelled: 200 km
+Distance Left: 0 km
+Total Distance Travelled: 800
+Fuel required: 13
+
+7 days has passed. It is now day 32.
+Welcome to Iran
+
+
+Press 'Enter' to continue.
+[3J[H[2JYou may: 
+
+1. Continue on Driving
+2. Stop to Rest
+3. Go Work
+4. Shop
+5. Check my Status
+6. Save my Game
+7. Load my Game
+8. I'm done playing. Quit.
+
+What do you pick?
+[3J[H[2J[3J[H[2JX---------------------------------------------------------------------------------------------------|
+Completion: 0%
+
+Fuel: 158
+Hunger: 190
+From: Pakistan
+Destination: Iran
+Distance Travelled: 0 km
+Distance Left: 200 km
+Total Distance Travelled: 800
+Fuel required: 13
+
+[3J[H[2J|---------X-----------------------------------------------------------------------------------------|
+Completion: 10%
+
+Fuel: 156.7
+Hunger: 189
+From: Pakistan
+Destination: Iran
+Distance Travelled: 20 km
+Distance Left: 180 km
+Total Distance Travelled: 802
+Fuel required: 13
+
+[3J[H[2J|-------------------X-------------------------------------------------------------------------------|
+Completion: 20%
+
+Fuel: 155.4
+Hunger: 188
+From: Pakistan
+Destination: Iran
+Distance Travelled: 40 km
+Distance Left: 160 km
+Total Distance Travelled: 808
+Fuel required: 13
+
+[3J[H[2J|-----------------------------X---------------------------------------------------------------------|
+Completion: 30%
+
+Fuel: 154.1
+Hunger: 187
+From: Pakistan
+Destination: Iran
+Distance Travelled: 60 km
+Distance Left: 140 km
+Total Distance Travelled: 818
+Fuel required: 13
+
+[3J[H[2J|---------------------------------------X-----------------------------------------------------------|
+Completion: 40%
+
+Fuel: 152.8
+Hunger: 186
+From: Pakistan
+Destination: Iran
+Distance Travelled: 80 km
+Distance Left: 120 km
+Total Distance Travelled: 832
+Fuel required: 13
+
+[3J[H[2J|-------------------------------------------------X-------------------------------------------------|
+Completion: 50%
+
+Fuel: 151.5
+Hunger: 185
+From: Pakistan
+Destination: Iran
+Distance Travelled: 100 km
+Distance Left: 100 km
+Total Distance Travelled: 850
+Fuel required: 13
+
+[3J[H[2J|-----------------------------------------------------------X---------------------------------------|
+Completion: 60%
+
+Fuel: 150.2
+Hunger: 184
+From: Pakistan
+Destination: Iran
+Distance Travelled: 120 km
+Distance Left: 80 km
+Total Distance Travelled: 872
+Fuel required: 13
+
+[3J[H[2J|---------------------------------------------------------------------X-----------------------------|
+Completion: 70%
+
+Fuel: 148.9
+Hunger: 183
+From: Pakistan
+Destination: Iran
+Distance Travelled: 140 km
+Distance Left: 60 km
+Total Distance Travelled: 898
+Fuel required: 13
+
+[3J[H[2J|-------------------------------------------------------------------------------X-------------------|
+Completion: 80%
+
+Fuel: 147.6
+Hunger: 182
+From: Pakistan
+Destination: Iran
+Distance Travelled: 160 km
+Distance Left: 40 km
+Total Distance Travelled: 928
+Fuel required: 13
+
+[3J[H[2J|-----------------------------------------------------------------------------------------X---------|
+Completion: 90%
+
+Fuel: 146.3
+Hunger: 181
+From: Pakistan
+Destination: Iran
+Distance Travelled: 180 km
+Distance Left: 20 km
+Total Distance Travelled: 962
+Fuel required: 13
+
+[3J[H[2J|---------------------------------------------------------------------------------------------------X
+Completion: 100%
+
+Fuel: 145
+Hunger: 180
+From: Pakistan
+Destination: Iran
+Distance Travelled: 200 km
+Distance Left: 0 km
+Total Distance Travelled: 1000
+Fuel required: 13
+
+3 days has passed. It is now day 35.
+Welcome to Egypt
+
+
+Press 'Enter' to continue.
+[3J[H[2JYou may: 
+
+1. Continue on Driving
+2. Stop to Rest
+3. Go Work
+4. Shop
+5. Check my Status
+6. Save my Game
+7. Load my Game
+8. I'm done playing. Quit.
+
+What do you pick?
+[3J[H[2J[3J[H[2JX---------------------------------------------------------------------------------------------------|
+Completion: 0%
+
+Fuel: 145
+Hunger: 180
+From: Iran
+Destination: Egypt
+Distance Travelled: 0 km
+Distance Left: 200 km
+Total Distance Travelled: 1000
+Fuel required: 13
+
+[3J[H[2J|---------X-----------------------------------------------------------------------------------------|
+Completion: 10%
+
+Fuel: 143.7
+Hunger: 179
+From: Iran
+Destination: Egypt
+Distance Travelled: 20 km
+Distance Left: 180 km
+Total Distance Travelled: 1002
+Fuel required: 13
+
+[3J[H[2J|-------------------X-------------------------------------------------------------------------------|
+Completion: 20%
+
+Fuel: 142.4
+Hunger: 178
+From: Iran
+Destination: Egypt
+Distance Travelled: 40 km
+Distance Left: 160 km
+Total Distance Travelled: 1008
+Fuel required: 13
+
+[3J[H[2J|-----------------------------X---------------------------------------------------------------------|
+Completion: 30%
+
+Fuel: 141.1
+Hunger: 177
+From: Iran
+Destination: Egypt
+Distance Travelled: 60 km
+Distance Left: 140 km
+Total Distance Travelled: 1018
+Fuel required: 13
+
+[3J[H[2J|---------------------------------------X-----------------------------------------------------------|
+Completion: 40%
+
+Fuel: 139.8
+Hunger: 176
+From: Iran
+Destination: Egypt
+Distance Travelled: 80 km
+Distance Left: 120 km
+Total Distance Travelled: 1032
+Fuel required: 13
+
+[3J[H[2J|-------------------------------------------------X-------------------------------------------------|
+Completion: 50%
+
+Fuel: 138.5
+Hunger: 175
+From: Iran
+Destination: Egypt
+Distance Travelled: 100 km
+Distance Left: 100 km
+Total Distance Travelled: 1050
+Fuel required: 13
+
+[3J[H[2J|-----------------------------------------------------------X---------------------------------------|
+Completion: 60%
+
+Fuel: 137.2
+Hunger: 174
+From: Iran
+Destination: Egypt
+Distance Travelled: 120 km
+Distance Left: 80 km
+Total Distance Travelled: 1072
+Fuel required: 13
+
+[3J[H[2J|---------------------------------------------------------------------X-----------------------------|
+Completion: 70%
+
+Fuel: 135.9
+Hunger: 173
+From: Iran
+Destination: Egypt
+Distance Travelled: 140 km
+Distance Left: 60 km
+Total Distance Travelled: 1098
+Fuel required: 13
+
+[3J[H[2J|-------------------------------------------------------------------------------X-------------------|
+Completion: 80%
+
+Fuel: 134.6
+Hunger: 172
+From: Iran
+Destination: Egypt
+Distance Travelled: 160 km
+Distance Left: 40 km
+Total Distance Travelled: 1128
+Fuel required: 13
+
+[3J[H[2J|-----------------------------------------------------------------------------------------X---------|
+Completion: 90%
+
+Fuel: 133.3
+Hunger: 171
+From: Iran
+Destination: Egypt
+Distance Travelled: 180 km
+Distance Left: 20 km
+Total Distance Travelled: 1162
+Fuel required: 13
+
+[3J[H[2J|---------------------------------------------------------------------------------------------------X
+Completion: 100%
+
+Fuel: 132
+Hunger: 170
+From: Iran
+Destination: Egypt
+Distance Travelled: 200 km
+Distance Left: 0 km
+Total Distance Travelled: 1200
+Fuel required: 13
+
+2 days has passed. It is now day 37.
+Welcome to Libya
+
+
+Press 'Enter' to continue.
+[3J[H[2JYou may: 
+
+1. Continue on Driving
+2. Stop to Rest
+3. Go Work
+4. Shop
+5. Check my Status
+6. Save my Game
+7. Load my Game
+8. I'm done playing. Quit.
+
+What do you pick?
+You are currently at Egypt.
+Balance: 6146 hunger: 170
+Fuel: 132 CarParts: 1
+You have 83 days left and you have not sleep for 12 days.
+
+Press 'Enter' to continue.
+[3J[H[2JYou may: 
+
+1. Continue on Driving
+2. Stop to Rest
+3. Go Work
+4. Shop
+5. Check my Status
+6. Save my Game
+7. Load my Game
+8. I'm done playing. Quit.
+
+What do you pick?
+[3J[H[2J-------- Your Trusty Store ------
+---------------------------------
+1. Gas                    0x    $0
+2. Food                   0x    $0
+3. Spare Car Parts        0x    $0
+4. Checkout and Leave
+
+Total cost: 0
+Your current balance: 6146
+What would you like to buy? (1/2/3/4)
+How many tires would you like to buy? It's 4000/part. (Max: 2500)
+[3J[H[2J-------- Your Trusty Store ------
+---------------------------------
+1. Gas                    0x    $0
+2. Food                   0x    $0
+3. Spare Car Parts        1x    $4000
+4. Checkout and Leave
+
+Total cost: 4000
+Your current balance: 2146
+What would you like to buy? (1/2/3/4)
+How many kilograms of food would you want? It's $10/kg. (Max: 2500) 
+[3J[H[2J-------- Your Trusty Store ------
+---------------------------------
+1. Gas                    0x    $0
+2. Food                   100x    $2000
+3. Spare Car Parts        1x    $4000
+4. Checkout and Leave
+
+Total cost: 6000
+Your current balance: 146
+What would you like to buy? (1/2/3/4)
+How many liters(L) of gasoline would you want to buy? It's $20/L. (Max: 2500)
+[3J[H[2J-------- Your Trusty Store ------
+---------------------------------
+1. Gas                    0x    $0
+2. Food                   100x    $2000
+3. Spare Car Parts        1x    $4000
+4. Checkout and Leave
+
+Total cost: 6000
+Your current balance: 146
+What would you like to buy? (1/2/3/4)
+The total cost is 6000
+Your remaining balance will be 146
+Is there anything else you would like to buy? (y/n)
+
+Press 'Enter' to continue.
+[3J[H[2JYou may: 
+
+1. Continue on Driving
+2. Stop to Rest
+3. Go Work
+4. Shop
+5. Check my Status
+6. Save my Game
+7. Load my Game
+8. I'm done playing. Quit.
+
+What do you pick?
+Enter the filename to save (default: save.txt ): Save finished!
+
+Press 'Enter' to continue.
+[3J[H[2JYou may: 
+
+1. Continue on Driving
+2. Stop to Rest
+3. Go Work
+4. Shop
+5. Check my Status
+6. Save my Game
+7. Load my Game
+8. I'm done playing. Quit.
+
+What do you pick?
+[3J[H[2J[3J[H[2JX---------------------------------------------------------------------------------------------------|
+Completion: 0%
+
+Fuel: 132
+Hunger: 270
+From: Egypt
+Destination: Libya
+Distance Travelled: 0 km
+Distance Left: 200 km
+Total Distance Travelled: 1200
+Fuel required: 13
+
+[3J[H[2J|---------X-----------------------------------------------------------------------------------------|
+Completion: 10%
+
+Fuel: 130.7
+Hunger: 269
+From: Egypt
+Destination: Libya
+Distance Travelled: 20 km
+Distance Left: 180 km
+Total Distance Travelled: 1202
+Fuel required: 13
+
+[3J[H[2J|-------------------X-------------------------------------------------------------------------------|
+Completion: 20%
+
+Fuel: 129.4
+Hunger: 268
+From: Egypt
+Destination: Libya
+Distance Travelled: 40 km
+Distance Left: 160 km
+Total Distance Travelled: 1208
+Fuel required: 13
+
+[3J[H[2J|-----------------------------X---------------------------------------------------------------------|
+Completion: 30%
+
+Fuel: 128.1
+Hunger: 267
+From: Egypt
+Destination: Libya
+Distance Travelled: 60 km
+Distance Left: 140 km
+Total Distance Travelled: 1218
+Fuel required: 13
+
+[3J[H[2J|---------------------------------------X-----------------------------------------------------------|
+Completion: 40%
+
+Fuel: 126.8
+Hunger: 266
+From: Egypt
+Destination: Libya
+Distance Travelled: 80 km
+Distance Left: 120 km
+Total Distance Travelled: 1232
+Fuel required: 13
+
+[3J[H[2J|-------------------------------------------------X-------------------------------------------------|
+Completion: 50%
+
+Fuel: 125.5
+Hunger: 265
+From: Egypt
+Destination: Libya
+Distance Travelled: 100 km
+Distance Left: 100 km
+Total Distance Travelled: 1250
+Fuel required: 13
+
+[3J[H[2J|-----------------------------------------------------------X---------------------------------------|
+Completion: 60%
+
+Fuel: 124.2
+Hunger: 264
+From: Egypt
+Destination: Libya
+Distance Travelled: 120 km
+Distance Left: 80 km
+Total Distance Travelled: 1272
+Fuel required: 13
+
+[3J[H[2J|---------------------------------------------------------------------X-----------------------------|
+Completion: 70%
+
+Fuel: 122.9
+Hunger: 263
+From: Egypt
+Destination: Libya
+Distance Travelled: 140 km
+Distance Left: 60 km
+Total Distance Travelled: 1298
+Fuel required: 13
+
+[3J[H[2J|-------------------------------------------------------------------------------X-------------------|
+Completion: 80%
+
+Fuel: 121.6
+Hunger: 262
+From: Egypt
+Destination: Libya
+Distance Travelled: 160 km
+Distance Left: 40 km
+Total Distance Travelled: 1328
+Fuel required: 13
+
+[3J[H[2J|-----------------------------------------------------------------------------------------X---------|
+Completion: 90%
+
+Fuel: 120.3
+Hunger: 261
+From: Egypt
+Destination: Libya
+Distance Travelled: 180 km
+Distance Left: 20 km
+Total Distance Travelled: 1362
+Fuel required: 13
+
+[3J[H[2J|---------------------------------------------------------------------------------------------------X
+Completion: 100%
+
+Fuel: 119
+Hunger: 260
+From: Egypt
+Destination: Libya
+Distance Travelled: 200 km
+Distance Left: 0 km
+Total Distance Travelled: 1400
+Fuel required: 13
+
+4 days has passed. It is now day 41.
+
+Oh no, you crashed! You've wasted 4 days.
+Be sure to sleep for a decreased chance of crashing.
+Since you have car parts available, you can repair your car using them!
+As you repaired your vehicle quickly, you moved to your next destination.
+
+Welcome to Algeria
+
+
+Press 'Enter' to continue.
+[3J[H[2JYou may: 
+
+1. Continue on Driving
+2. Stop to Rest
+3. Go Work
+4. Shop
+5. Check my Status
+6. Save my Game
+7. Load my Game
+8. I'm done playing. Quit.
+
+What do you pick?
+[3J[H[2J[3J[H[2JX---------------------------------------------------------------------------------------------------|
+Completion: 0%
+
+Fuel: 119
+Hunger: 260
+From: Libya
+Destination: Algeria
+Distance Travelled: 0 km
+Distance Left: 200 km
+Total Distance Travelled: 1400
+Fuel required: 13
+
+[3J[H[2J|---------X-----------------------------------------------------------------------------------------|
+Completion: 10%
+
+Fuel: 117.7
+Hunger: 259
+From: Libya
+Destination: Algeria
+Distance Travelled: 20 km
+Distance Left: 180 km
+Total Distance Travelled: 1402
+Fuel required: 13
+
+[3J[H[2J|-------------------X-------------------------------------------------------------------------------|
+Completion: 20%
+
+Fuel: 116.4
+Hunger: 258
+From: Libya
+Destination: Algeria
+Distance Travelled: 40 km
+Distance Left: 160 km
+Total Distance Travelled: 1408
+Fuel required: 13
+
+[3J[H[2J|-----------------------------X---------------------------------------------------------------------|
+Completion: 30%
+
+Fuel: 115.1
+Hunger: 257
+From: Libya
+Destination: Algeria
+Distance Travelled: 60 km
+Distance Left: 140 km
+Total Distance Travelled: 1418
+Fuel required: 13
+
+[3J[H[2J|---------------------------------------X-----------------------------------------------------------|
+Completion: 40%
+
+Fuel: 113.8
+Hunger: 256
+From: Libya
+Destination: Algeria
+Distance Travelled: 80 km
+Distance Left: 120 km
+Total Distance Travelled: 1432
+Fuel required: 13
+
+[3J[H[2J|-------------------------------------------------X-------------------------------------------------|
+Completion: 50%
+
+Fuel: 112.5
+Hunger: 255
+From: Libya
+Destination: Algeria
+Distance Travelled: 100 km
+Distance Left: 100 km
+Total Distance Travelled: 1450
+Fuel required: 13
+
+[3J[H[2J|-----------------------------------------------------------X---------------------------------------|
+Completion: 60%
+
+Fuel: 111.2
+Hunger: 254
+From: Libya
+Destination: Algeria
+Distance Travelled: 120 km
+Distance Left: 80 km
+Total Distance Travelled: 1472
+Fuel required: 13
+
+[3J[H[2J|---------------------------------------------------------------------X-----------------------------|
+Completion: 70%
+
+Fuel: 109.9
+Hunger: 253
+From: Libya
+Destination: Algeria
+Distance Travelled: 140 km
+Distance Left: 60 km
+Total Distance Travelled: 1498
+Fuel required: 13
+
+[3J[H[2J|-------------------------------------------------------------------------------X-------------------|
+Completion: 80%
+
+Fuel: 108.6
+Hunger: 252
+From: Libya
+Destination: Algeria
+Distance Travelled: 160 km
+Distance Left: 40 km
+Total Distance Travelled: 1528
+Fuel required: 13
+
+[3J[H[2J|-----------------------------------------------------------------------------------------X---------|
+Completion: 90%
+
+Fuel: 107.3
+Hunger: 251
+From: Libya
+Destination: Algeria
+Distance Travelled: 180 km
+Distance Left: 20 km
+Total Distance Travelled: 1562
+Fuel required: 13
+
+[3J[H[2J|---------------------------------------------------------------------------------------------------X
+Completion: 100%
+
+Fuel: 106
+Hunger: 250
+From: Libya
+Destination: Algeria
+Distance Travelled: 200 km
+Distance Left: 0 km
+Total Distance Travelled: 1600
+Fuel required: 13
+
+7 days has passed. It is now day 48.
+Welcome to Brazil
+
+
+Press 'Enter' to continue.
+[3J[H[2JYou may: 
+
+1. Continue on Driving
+2. Stop to Rest
+3. Go Work
+4. Shop
+5. Check my Status
+6. Save my Game
+7. Load my Game
+8. I'm done playing. Quit.
+
+What do you pick?
+[3J[H[2J[3J[H[2JX---------------------------------------------------------------------------------------------------|
+Completion: 0%
+
+Fuel: 106
+Hunger: 250
+From: Algeria
+Destination: Brazil
+Distance Travelled: 0 km
+Distance Left: 200 km
+Total Distance Travelled: 1600
+Fuel required: 13
+
+[3J[H[2J|---------X-----------------------------------------------------------------------------------------|
+Completion: 10%
+
+Fuel: 104.7
+Hunger: 249
+From: Algeria
+Destination: Brazil
+Distance Travelled: 20 km
+Distance Left: 180 km
+Total Distance Travelled: 1602
+Fuel required: 13
+
+[3J[H[2J|-------------------X-------------------------------------------------------------------------------|
+Completion: 20%
+
+Fuel: 103.4
+Hunger: 248
+From: Algeria
+Destination: Brazil
+Distance Travelled: 40 km
+Distance Left: 160 km
+Total Distance Travelled: 1608
+Fuel required: 13
+
+[3J[H[2J|-----------------------------X---------------------------------------------------------------------|
+Completion: 30%
+
+Fuel: 102.1
+Hunger: 247
+From: Algeria
+Destination: Brazil
+Distance Travelled: 60 km
+Distance Left: 140 km
+Total Distance Travelled: 1618
+Fuel required: 13
+
+[3J[H[2J|---------------------------------------X-----------------------------------------------------------|
+Completion: 40%
+
+Fuel: 100.8
+Hunger: 246
+From: Algeria
+Destination: Brazil
+Distance Travelled: 80 km
+Distance Left: 120 km
+Total Distance Travelled: 1632
+Fuel required: 13
+
+[3J[H[2J|-------------------------------------------------X-------------------------------------------------|
+Completion: 50%
+
+Fuel: 99.5
+Hunger: 245
+From: Algeria
+Destination: Brazil
+Distance Travelled: 100 km
+Distance Left: 100 km
+Total Distance Travelled: 1650
+Fuel required: 13
+
+[3J[H[2J|-----------------------------------------------------------X---------------------------------------|
+Completion: 60%
+
+Fuel: 98.2
+Hunger: 244
+From: Algeria
+Destination: Brazil
+Distance Travelled: 120 km
+Distance Left: 80 km
+Total Distance Travelled: 1672
+Fuel required: 13
+
+[3J[H[2J|---------------------------------------------------------------------X-----------------------------|
+Completion: 70%
+
+Fuel: 96.9
+Hunger: 243
+From: Algeria
+Destination: Brazil
+Distance Travelled: 140 km
+Distance Left: 60 km
+Total Distance Travelled: 1698
+Fuel required: 13
+
+[3J[H[2J|-------------------------------------------------------------------------------X-------------------|
+Completion: 80%
+
+Fuel: 95.6
+Hunger: 242
+From: Algeria
+Destination: Brazil
+Distance Travelled: 160 km
+Distance Left: 40 km
+Total Distance Travelled: 1728
+Fuel required: 13
+
+[3J[H[2J|-----------------------------------------------------------------------------------------X---------|
+Completion: 90%
+
+Fuel: 94.3
+Hunger: 241
+From: Algeria
+Destination: Brazil
+Distance Travelled: 180 km
+Distance Left: 20 km
+Total Distance Travelled: 1762
+Fuel required: 13
+
+[3J[H[2J|---------------------------------------------------------------------------------------------------X
+Completion: 100%
+
+Fuel: 93
+Hunger: 240
+From: Algeria
+Destination: Brazil
+Distance Travelled: 200 km
+Distance Left: 0 km
+Total Distance Travelled: 1800
+Fuel required: 13
+
+4 days has passed. It is now day 52.
+
+Oh no, you crashed! You've wasted 4 days.
+Be sure to sleep for a decreased chance of crashing.
+Since you have car parts available, you can repair your car using them!
+As you repaired your vehicle quickly, you moved to your next destination.
+
+Welcome to Chile
+
+
+Press 'Enter' to continue.
+[3J[H[2JYou may: 
+
+1. Continue on Driving
+2. Stop to Rest
+3. Go Work
+4. Shop
+5. Check my Status
+6. Save my Game
+7. Load my Game
+8. I'm done playing. Quit.
+
+What do you pick?
+[3J[H[2J                                                                     
+                                  @@@@@@,                                       
+                                *@@@@@@@@@@@#.                                  
+                               *@@@@@@@@@@@@@@@@@@@@@@%                         
+                               @@@@@@@@@@@@@@@@@@@@@@@.                         
+                                @@@@@@@@@@@@@@@@@@@@@.                          
+                                 @@@@@@@@@@@@@@@@@@.                            
+                                 @@@@@@/*(@@@@@.
+                                ./@@@@@*  .*@@@@/.                                   
+                            (.,@@@@@@@@@@@@@@@@@@(                              
+                            @@@@@@@@@@@@@@@@@@@@@@@@                            
+                         #@@@@@@@@@@@@@.   @@@@@@@@@@@/                         
+                       &@@@@@@@@@@@@( ., .  .&@@@@@@@@@@(                       
+                     (@@@@@@@@@@@@    @*   /    @@@@@@@@@@,                     
+                    @@@@@@@@@@@@@   #@@.   @@@  @@@@@@@@@@@@                    
+                   @@@@@@@@@@@@@@    %@.   @@@@@@@@@@@@@@@@@@                   
+                  @@@@@@@@@@@@@@@@@          %@@@@@@@@@@@@@@@@                  
+                  @@@@@@@@@@@@@@@@@@@@@.        /@@@@@@@@@@@@@.  
+                  @@@@@@@@@@@@@@@@@@@@@.   @@&   #@@@@@@@@@@@@%                 
+                   @@@@@@@@@@@@@@   @@@.   @@@   @@@@@@@@@@@@@/                 
+                    @@@@@@@@@@@@@@     .   .    @@@@@@@@@@@@@@                  
+                     .@@@@@@@@@@@@@@@@*    .#@@@@@@@@@@@@@@@@                   
+                        @@@@@@@@@@@@@@@,   @@@@@@@@@@@@@@@@                     
+                           @@@@@@@@@@@@@@@@@@@@@@@@@@@@@                        
+                                ,%@@@@@@@@@@@@@@@@*                                                          
+  
+2 days has passed. It is now day 54.
+You have earned $12179
+Your total balance is: $12325
+
+
+Press 'Enter' to continue.
+[3J[H[2JYou may: 
+
+1. Continue on Driving
+2. Stop to Rest
+3. Go Work
+4. Shop
+5. Check my Status
+6. Save my Game
+7. Load my Game
+8. I'm done playing. Quit.
+
+What do you pick?
+[3J[H[2J
+
+
+
+          _____|~~\_____      _____________
+  _-~               \    |    \
+  _-    | )     \    |__/   \   \
+  _-         )   |   |  |     \  \
+  _-    | )     /    |--|      |  |
+ __-_______________ /__/_______|  |_________
+(                |----         |  |
+ `---------------'--\\\\      .`--'
+                              `||||  
+    
+[3J[H[2J
+
+z             
+
+          _____|~~\_____      _____________
+  _-~               \    |    \
+  _-    | )     \    |__/   \   \
+  _-         )   |   |  |     \  \
+  _-    | )     /    |--|      |  |
+ __-_______________ /__/_______|  |_________
+(                |----         |  |
+ `---------------'--\\\\      .`--'
+                              `||||  
+    
+[3J[H[2J
+  z           
+z             
+
+          _____|~~\_____      _____________
+  _-~               \    |    \
+  _-    | )     \    |__/   \   \
+  _-         )   |   |  |     \  \
+  _-    | )     /    |--|      |  |
+ __-_______________ /__/_______|  |_________
+(                |----         |  |
+ `---------------'--\\\\      .`--'
+                              `||||  
+    
+[3J[H[2J             Z         
+  z           
+z             
+
+          _____|~~\_____      _____________
+  _-~               \    |    \
+  _-    | )     \    |__/   \   \
+  _-         )   |   |  |     \  \
+  _-    | )     /    |--|      |  |
+ __-_______________ /__/_______|  |_________
+(                |----         |  |
+ `---------------'--\\\\      .`--'
+                              `||||  
+    
+5 days has passed. It is now day 59.
+You feel energetic!
+
+
+Press 'Enter' to continue.
+[3J[H[2JYou may: 
+
+1. Continue on Driving
+2. Stop to Rest
+3. Go Work
+4. Shop
+5. Check my Status
+6. Save my Game
+7. Load my Game
+8. I'm done playing. Quit.
+
+What do you pick?
+[3J[H[2J[3J[H[2JX---------------------------------------------------------------------------------------------------|
+Completion: 0%
+
+Fuel: 93
+Hunger: 240
+From: Brazil
+Destination: Chile
+Distance Travelled: 0 km
+Distance Left: 200 km
+Total Distance Travelled: 1800
+Fuel required: 13
+
+[3J[H[2J|---------X-----------------------------------------------------------------------------------------|
+Completion: 10%
+
+Fuel: 91.7
+Hunger: 239
+From: Brazil
+Destination: Chile
+Distance Travelled: 20 km
+Distance Left: 180 km
+Total Distance Travelled: 1802
+Fuel required: 13
+
+[3J[H[2J|-------------------X-------------------------------------------------------------------------------|
+Completion: 20%
+
+Fuel: 90.4
+Hunger: 238
+From: Brazil
+Destination: Chile
+Distance Travelled: 40 km
+Distance Left: 160 km
+Total Distance Travelled: 1808
+Fuel required: 13
+
+[3J[H[2J|-----------------------------X---------------------------------------------------------------------|
+Completion: 30%
+
+Fuel: 89.1
+Hunger: 237
+From: Brazil
+Destination: Chile
+Distance Travelled: 60 km
+Distance Left: 140 km
+Total Distance Travelled: 1818
+Fuel required: 13
+
+[3J[H[2J|---------------------------------------X-----------------------------------------------------------|
+Completion: 40%
+
+Fuel: 87.8
+Hunger: 236
+From: Brazil
+Destination: Chile
+Distance Travelled: 80 km
+Distance Left: 120 km
+Total Distance Travelled: 1832
+Fuel required: 13
+
+[3J[H[2J|-------------------------------------------------X-------------------------------------------------|
+Completion: 50%
+
+Fuel: 86.5
+Hunger: 235
+From: Brazil
+Destination: Chile
+Distance Travelled: 100 km
+Distance Left: 100 km
+Total Distance Travelled: 1850
+Fuel required: 13
+
+[3J[H[2J|-----------------------------------------------------------X---------------------------------------|
+Completion: 60%
+
+Fuel: 85.2
+Hunger: 234
+From: Brazil
+Destination: Chile
+Distance Travelled: 120 km
+Distance Left: 80 km
+Total Distance Travelled: 1872
+Fuel required: 13
+
+[3J[H[2J|---------------------------------------------------------------------X-----------------------------|
+Completion: 70%
+
+Fuel: 83.9
+Hunger: 233
+From: Brazil
+Destination: Chile
+Distance Travelled: 140 km
+Distance Left: 60 km
+Total Distance Travelled: 1898
+Fuel required: 13
+
+[3J[H[2J|-------------------------------------------------------------------------------X-------------------|
+Completion: 80%
+
+Fuel: 82.6
+Hunger: 232
+From: Brazil
+Destination: Chile
+Distance Travelled: 160 km
+Distance Left: 40 km
+Total Distance Travelled: 1928
+Fuel required: 13
+
+[3J[H[2J|-----------------------------------------------------------------------------------------X---------|
+Completion: 90%
+
+Fuel: 81.3
+Hunger: 231
+From: Brazil
+Destination: Chile
+Distance Travelled: 180 km
+Distance Left: 20 km
+Total Distance Travelled: 1962
+Fuel required: 13
+
+[3J[H[2J|---------------------------------------------------------------------------------------------------X
+Completion: 100%
+
+Fuel: 80
+Hunger: 230
+From: Brazil
+Destination: Chile
+Distance Travelled: 200 km
+Distance Left: 0 km
+Total Distance Travelled: 2000
+Fuel required: 13
+
+7 days has passed. It is now day 66.
+Welcome to Argentina
+
+
+Press 'Enter' to continue.
+[3J[H[2JYou may: 
+
+1. Continue on Driving
+2. Stop to Rest
+3. Go Work
+4. Shop
+5. Check my Status
+6. Save my Game
+7. Load my Game
+8. I'm done playing. Quit.
+
+What do you pick?
+You are currently at Chile.
+Balance: 12325 hunger: 230
+Fuel: 80 CarParts: 0
+You have 54 days left and you have not sleep for 7 days.
+
+Press 'Enter' to continue.
+[3J[H[2JYou may: 
+
+1. Continue on Driving
+2. Stop to Rest
+3. Go Work
+4. Shop
+5. Check my Status
+6. Save my Game
+7. Load my Game
+8. I'm done playing. Quit.
+
+What do you pick?
+[3J[H[2J-------- Your Trusty Store ------
+---------------------------------
+1. Gas                    0x    $0
+2. Food                   0x    $0
+3. Spare Car Parts        0x    $0
+4. Checkout and Leave
+
+Total cost: 0
+Your current balance: 12325
+What would you like to buy? (1/2/3/4)
+How many tires would you like to buy? It's 4000/part. (Max: 2500)
+[3J[H[2J-------- Your Trusty Store ------
+---------------------------------
+1. Gas                    0x    $0
+2. Food                   0x    $0
+3. Spare Car Parts        1x    $4000
+4. Checkout and Leave
+
+Total cost: 4000
+Your current balance: 8325
+What would you like to buy? (1/2/3/4)
+The total cost is 4000
+Your remaining balance will be 8325
+Is there anything else you would like to buy? (y/n)
+
+Press 'Enter' to continue.
+[3J[H[2JYou may: 
+
+1. Continue on Driving
+2. Stop to Rest
+3. Go Work
+4. Shop
+5. Check my Status
+6. Save my Game
+7. Load my Game
+8. I'm done playing. Quit.
+
+What do you pick?
+[3J[H[2J[3J[H[2JX---------------------------------------------------------------------------------------------------|
+Completion: 0%
+
+Fuel: 80
+Hunger: 230
+From: Chile
+Destination: Argentina
+Distance Travelled: 0 km
+Distance Left: 200 km
+Total Distance Travelled: 2000
+Fuel required: 13
+
+[3J[H[2J|---------X-----------------------------------------------------------------------------------------|
+Completion: 10%
+
+Fuel: 78.7
+Hunger: 229
+From: Chile
+Destination: Argentina
+Distance Travelled: 20 km
+Distance Left: 180 km
+Total Distance Travelled: 2002
+Fuel required: 13
+
+[3J[H[2J|-------------------X-------------------------------------------------------------------------------|
+Completion: 20%
+
+Fuel: 77.4
+Hunger: 228
+From: Chile
+Destination: Argentina
+Distance Travelled: 40 km
+Distance Left: 160 km
+Total Distance Travelled: 2008
+Fuel required: 13
+
+[3J[H[2J|-----------------------------X---------------------------------------------------------------------|
+Completion: 30%
+
+Fuel: 76.1
+Hunger: 227
+From: Chile
+Destination: Argentina
+Distance Travelled: 60 km
+Distance Left: 140 km
+Total Distance Travelled: 2018
+Fuel required: 13
+
+[3J[H[2J|---------------------------------------X-----------------------------------------------------------|
+Completion: 40%
+
+Fuel: 74.8
+Hunger: 226
+From: Chile
+Destination: Argentina
+Distance Travelled: 80 km
+Distance Left: 120 km
+Total Distance Travelled: 2032
+Fuel required: 13
+
+[3J[H[2J|-------------------------------------------------X-------------------------------------------------|
+Completion: 50%
+
+Fuel: 73.5
+Hunger: 225
+From: Chile
+Destination: Argentina
+Distance Travelled: 100 km
+Distance Left: 100 km
+Total Distance Travelled: 2050
+Fuel required: 13
+
+[3J[H[2J|-----------------------------------------------------------X---------------------------------------|
+Completion: 60%
+
+Fuel: 72.2
+Hunger: 224
+From: Chile
+Destination: Argentina
+Distance Travelled: 120 km
+Distance Left: 80 km
+Total Distance Travelled: 2072
+Fuel required: 13
+
+[3J[H[2J|---------------------------------------------------------------------X-----------------------------|
+Completion: 70%
+
+Fuel: 70.9
+Hunger: 223
+From: Chile
+Destination: Argentina
+Distance Travelled: 140 km
+Distance Left: 60 km
+Total Distance Travelled: 2098
+Fuel required: 13
+
+[3J[H[2J|-------------------------------------------------------------------------------X-------------------|
+Completion: 80%
+
+Fuel: 69.6
+Hunger: 222
+From: Chile
+Destination: Argentina
+Distance Travelled: 160 km
+Distance Left: 40 km
+Total Distance Travelled: 2128
+Fuel required: 13
+
+[3J[H[2J|-----------------------------------------------------------------------------------------X---------|
+Completion: 90%
+
+Fuel: 68.3
+Hunger: 221
+From: Chile
+Destination: Argentina
+Distance Travelled: 180 km
+Distance Left: 20 km
+Total Distance Travelled: 2162
+Fuel required: 13
+
+[3J[H[2J|---------------------------------------------------------------------------------------------------X
+Completion: 100%
+
+Fuel: 67
+Hunger: 220
+From: Chile
+Destination: Argentina
+Distance Travelled: 200 km
+Distance Left: 0 km
+Total Distance Travelled: 2200
+Fuel required: 13
+
+7 days has passed. It is now day 73.
+
+Oh no, you crashed! You've wasted 7 days.
+Be sure to sleep for a decreased chance of crashing.
+Since you have car parts available, you can repair your car using them!
+As you repaired your vehicle quickly, you moved to your next destination.
+
+Welcome to 
+
+
+Press 'Enter' to continue.
+You gave the presents!

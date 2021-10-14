@@ -1,0 +1,625 @@
+[3J[H[2JWould you Like to
+1. Start your Adventure
+2. Know the Backstory of the Game
+3. Load Game
+4. Quit
+Enter the filename (default: save.txt ): Load finished!
+
+Press 'Enter' to continue.
+[3J[H[2JWould you Like to
+1. Start your Adventure
+2. Know the Backstory of the Game
+3. Load Game
+4. Quit
+[3J[H[2JYou may: 
+
+1. Continue on Driving
+2. Stop to Rest
+3. Go Work
+4. Shop
+5. Check my Status
+6. Save my Game
+7. Load my Game
+8. I'm done playing. Quit.
+
+What do you pick?
+[3J[H[2J[3J[H[2JX---------------------------------------------------------------------------------------------------|
+Completion: 0%
+
+Fuel: 132
+Hunger: 270
+From: Egypt
+Destination: Libya
+Distance Travelled: 0 km
+Distance Left: 200 km
+Total Distance Travelled: 0
+Fuel required: 13
+
+[3J[H[2J|---------X-----------------------------------------------------------------------------------------|
+Completion: 10%
+
+Fuel: 130.7
+Hunger: 269
+From: Egypt
+Destination: Libya
+Distance Travelled: 20 km
+Distance Left: 180 km
+Total Distance Travelled: 2
+Fuel required: 13
+
+[3J[H[2J|-------------------X-------------------------------------------------------------------------------|
+Completion: 20%
+
+Fuel: 129.4
+Hunger: 268
+From: Egypt
+Destination: Libya
+Distance Travelled: 40 km
+Distance Left: 160 km
+Total Distance Travelled: 8
+Fuel required: 13
+
+[3J[H[2J|-----------------------------X---------------------------------------------------------------------|
+Completion: 30%
+
+Fuel: 128.1
+Hunger: 267
+From: Egypt
+Destination: Libya
+Distance Travelled: 60 km
+Distance Left: 140 km
+Total Distance Travelled: 18
+Fuel required: 13
+
+[3J[H[2J|---------------------------------------X-----------------------------------------------------------|
+Completion: 40%
+
+Fuel: 126.8
+Hunger: 266
+From: Egypt
+Destination: Libya
+Distance Travelled: 80 km
+Distance Left: 120 km
+Total Distance Travelled: 32
+Fuel required: 13
+
+[3J[H[2J|-------------------------------------------------X-------------------------------------------------|
+Completion: 50%
+
+Fuel: 125.5
+Hunger: 265
+From: Egypt
+Destination: Libya
+Distance Travelled: 100 km
+Distance Left: 100 km
+Total Distance Travelled: 50
+Fuel required: 13
+
+[3J[H[2J|-----------------------------------------------------------X---------------------------------------|
+Completion: 60%
+
+Fuel: 124.2
+Hunger: 264
+From: Egypt
+Destination: Libya
+Distance Travelled: 120 km
+Distance Left: 80 km
+Total Distance Travelled: 72
+Fuel required: 13
+
+[3J[H[2J|---------------------------------------------------------------------X-----------------------------|
+Completion: 70%
+
+Fuel: 122.9
+Hunger: 263
+From: Egypt
+Destination: Libya
+Distance Travelled: 140 km
+Distance Left: 60 km
+Total Distance Travelled: 98
+Fuel required: 13
+
+[3J[H[2J|-------------------------------------------------------------------------------X-------------------|
+Completion: 80%
+
+Fuel: 121.6
+Hunger: 262
+From: Egypt
+Destination: Libya
+Distance Travelled: 160 km
+Distance Left: 40 km
+Total Distance Travelled: 128
+Fuel required: 13
+
+[3J[H[2J|-----------------------------------------------------------------------------------------X---------|
+Completion: 90%
+
+Fuel: 120.3
+Hunger: 261
+From: Egypt
+Destination: Libya
+Distance Travelled: 180 km
+Distance Left: 20 km
+Total Distance Travelled: 162
+Fuel required: 13
+
+[3J[H[2J|---------------------------------------------------------------------------------------------------X
+Completion: 100%
+
+Fuel: 119
+Hunger: 260
+From: Egypt
+Destination: Libya
+Distance Travelled: 200 km
+Distance Left: 0 km
+Total Distance Travelled: 200
+Fuel required: 13
+
+6 days has passed. It is now day 43.
+Welcome to Algeria
+
+
+Press 'Enter' to continue.
+[3J[H[2JYou may: 
+
+1. Continue on Driving
+2. Stop to Rest
+3. Go Work
+4. Shop
+5. Check my Status
+6. Save my Game
+7. Load my Game
+8. I'm done playing. Quit.
+
+What do you pick?
+[3J[H[2J[3J[H[2JX---------------------------------------------------------------------------------------------------|
+Completion: 0%
+
+Fuel: 119
+Hunger: 260
+From: Libya
+Destination: Algeria
+Distance Travelled: 0 km
+Distance Left: 200 km
+Total Distance Travelled: 200
+Fuel required: 13
+
+[3J[H[2J|---------X-----------------------------------------------------------------------------------------|
+Completion: 10%
+
+Fuel: 117.7
+Hunger: 259
+From: Libya
+Destination: Algeria
+Distance Travelled: 20 km
+Distance Left: 180 km
+Total Distance Travelled: 202
+Fuel required: 13
+
+[3J[H[2J|-------------------X-------------------------------------------------------------------------------|
+Completion: 20%
+
+Fuel: 116.4
+Hunger: 258
+From: Libya
+Destination: Algeria
+Distance Travelled: 40 km
+Distance Left: 160 km
+Total Distance Travelled: 208
+Fuel required: 13
+
+[3J[H[2J|-----------------------------X---------------------------------------------------------------------|
+Completion: 30%
+
+Fuel: 115.1
+Hunger: 257
+From: Libya
+Destination: Algeria
+Distance Travelled: 60 km
+Distance Left: 140 km
+Total Distance Travelled: 218
+Fuel required: 13
+
+[3J[H[2J|---------------------------------------X-----------------------------------------------------------|
+Completion: 40%
+
+Fuel: 113.8
+Hunger: 256
+From: Libya
+Destination: Algeria
+Distance Travelled: 80 km
+Distance Left: 120 km
+Total Distance Travelled: 232
+Fuel required: 13
+
+[3J[H[2J|-------------------------------------------------X-------------------------------------------------|
+Completion: 50%
+
+Fuel: 112.5
+Hunger: 255
+From: Libya
+Destination: Algeria
+Distance Travelled: 100 km
+Distance Left: 100 km
+Total Distance Travelled: 250
+Fuel required: 13
+
+[3J[H[2J|-----------------------------------------------------------X---------------------------------------|
+Completion: 60%
+
+Fuel: 111.2
+Hunger: 254
+From: Libya
+Destination: Algeria
+Distance Travelled: 120 km
+Distance Left: 80 km
+Total Distance Travelled: 272
+Fuel required: 13
+
+[3J[H[2J|---------------------------------------------------------------------X-----------------------------|
+Completion: 70%
+
+Fuel: 109.9
+Hunger: 253
+From: Libya
+Destination: Algeria
+Distance Travelled: 140 km
+Distance Left: 60 km
+Total Distance Travelled: 298
+Fuel required: 13
+
+[3J[H[2J|-------------------------------------------------------------------------------X-------------------|
+Completion: 80%
+
+Fuel: 108.6
+Hunger: 252
+From: Libya
+Destination: Algeria
+Distance Travelled: 160 km
+Distance Left: 40 km
+Total Distance Travelled: 328
+Fuel required: 13
+
+[3J[H[2J|-----------------------------------------------------------------------------------------X---------|
+Completion: 90%
+
+Fuel: 107.3
+Hunger: 251
+From: Libya
+Destination: Algeria
+Distance Travelled: 180 km
+Distance Left: 20 km
+Total Distance Travelled: 362
+Fuel required: 13
+
+[3J[H[2J|---------------------------------------------------------------------------------------------------X
+Completion: 100%
+
+Fuel: 106
+Hunger: 250
+From: Libya
+Destination: Algeria
+Distance Travelled: 200 km
+Distance Left: 0 km
+Total Distance Travelled: 400
+Fuel required: 13
+
+6 days has passed. It is now day 49.
+
+Oh no, you crashed! You've wasted 6 days.
+Be sure to sleep for a decreased chance of crashing.
+Since you have car parts available, you can repair your car using them!
+As you repaired your vehicle quickly, you moved to your next destination.
+
+Welcome to Brazil
+
+
+Press 'Enter' to continue.
+[3J[H[2JYou may: 
+
+1. Continue on Driving
+2. Stop to Rest
+3. Go Work
+4. Shop
+5. Check my Status
+6. Save my Game
+7. Load my Game
+8. I'm done playing. Quit.
+
+What do you pick?
+[3J[H[2J[3J[H[2JX---------------------------------------------------------------------------------------------------|
+Completion: 0%
+
+Fuel: 106
+Hunger: 250
+From: Algeria
+Destination: Brazil
+Distance Travelled: 0 km
+Distance Left: 200 km
+Total Distance Travelled: 400
+Fuel required: 13
+
+[3J[H[2J|---------X-----------------------------------------------------------------------------------------|
+Completion: 10%
+
+Fuel: 104.7
+Hunger: 249
+From: Algeria
+Destination: Brazil
+Distance Travelled: 20 km
+Distance Left: 180 km
+Total Distance Travelled: 402
+Fuel required: 13
+
+[3J[H[2J|-------------------X-------------------------------------------------------------------------------|
+Completion: 20%
+
+Fuel: 103.4
+Hunger: 248
+From: Algeria
+Destination: Brazil
+Distance Travelled: 40 km
+Distance Left: 160 km
+Total Distance Travelled: 408
+Fuel required: 13
+
+[3J[H[2J|-----------------------------X---------------------------------------------------------------------|
+Completion: 30%
+
+Fuel: 102.1
+Hunger: 247
+From: Algeria
+Destination: Brazil
+Distance Travelled: 60 km
+Distance Left: 140 km
+Total Distance Travelled: 418
+Fuel required: 13
+
+[3J[H[2J|---------------------------------------X-----------------------------------------------------------|
+Completion: 40%
+
+Fuel: 100.8
+Hunger: 246
+From: Algeria
+Destination: Brazil
+Distance Travelled: 80 km
+Distance Left: 120 km
+Total Distance Travelled: 432
+Fuel required: 13
+
+[3J[H[2J|-------------------------------------------------X-------------------------------------------------|
+Completion: 50%
+
+Fuel: 99.5
+Hunger: 245
+From: Algeria
+Destination: Brazil
+Distance Travelled: 100 km
+Distance Left: 100 km
+Total Distance Travelled: 450
+Fuel required: 13
+
+[3J[H[2J|-----------------------------------------------------------X---------------------------------------|
+Completion: 60%
+
+Fuel: 98.2
+Hunger: 244
+From: Algeria
+Destination: Brazil
+Distance Travelled: 120 km
+Distance Left: 80 km
+Total Distance Travelled: 472
+Fuel required: 13
+
+[3J[H[2J|---------------------------------------------------------------------X-----------------------------|
+Completion: 70%
+
+Fuel: 96.9
+Hunger: 243
+From: Algeria
+Destination: Brazil
+Distance Travelled: 140 km
+Distance Left: 60 km
+Total Distance Travelled: 498
+Fuel required: 13
+
+[3J[H[2J|-------------------------------------------------------------------------------X-------------------|
+Completion: 80%
+
+Fuel: 95.6
+Hunger: 242
+From: Algeria
+Destination: Brazil
+Distance Travelled: 160 km
+Distance Left: 40 km
+Total Distance Travelled: 528
+Fuel required: 13
+
+[3J[H[2J|-----------------------------------------------------------------------------------------X---------|
+Completion: 90%
+
+Fuel: 94.3
+Hunger: 241
+From: Algeria
+Destination: Brazil
+Distance Travelled: 180 km
+Distance Left: 20 km
+Total Distance Travelled: 562
+Fuel required: 13
+
+[3J[H[2J|---------------------------------------------------------------------------------------------------X
+Completion: 100%
+
+Fuel: 93
+Hunger: 240
+From: Algeria
+Destination: Brazil
+Distance Travelled: 200 km
+Distance Left: 0 km
+Total Distance Travelled: 600
+Fuel required: 13
+
+2 days has passed. It is now day 51.
+
+Oh no, you crashed! You've wasted 2 days.
+Be sure to sleep for a decreased chance of crashing.
+Since you have car parts available, you can repair your car using them!
+As you repaired your vehicle quickly, you moved to your next destination.
+
+Welcome to Chile
+
+
+Press 'Enter' to continue.
+[3J[H[2JYou may: 
+
+1. Continue on Driving
+2. Stop to Rest
+3. Go Work
+4. Shop
+5. Check my Status
+6. Save my Game
+7. Load my Game
+8. I'm done playing. Quit.
+
+What do you pick?
+[3J[H[2J[3J[H[2JX---------------------------------------------------------------------------------------------------|
+Completion: 0%
+
+Fuel: 93
+Hunger: 240
+From: Brazil
+Destination: Chile
+Distance Travelled: 0 km
+Distance Left: 200 km
+Total Distance Travelled: 600
+Fuel required: 13
+
+[3J[H[2J|---------X-----------------------------------------------------------------------------------------|
+Completion: 10%
+
+Fuel: 91.7
+Hunger: 239
+From: Brazil
+Destination: Chile
+Distance Travelled: 20 km
+Distance Left: 180 km
+Total Distance Travelled: 602
+Fuel required: 13
+
+[3J[H[2J|-------------------X-------------------------------------------------------------------------------|
+Completion: 20%
+
+Fuel: 90.4
+Hunger: 238
+From: Brazil
+Destination: Chile
+Distance Travelled: 40 km
+Distance Left: 160 km
+Total Distance Travelled: 608
+Fuel required: 13
+
+[3J[H[2J|-----------------------------X---------------------------------------------------------------------|
+Completion: 30%
+
+Fuel: 89.1
+Hunger: 237
+From: Brazil
+Destination: Chile
+Distance Travelled: 60 km
+Distance Left: 140 km
+Total Distance Travelled: 618
+Fuel required: 13
+
+[3J[H[2J|---------------------------------------X-----------------------------------------------------------|
+Completion: 40%
+
+Fuel: 87.8
+Hunger: 236
+From: Brazil
+Destination: Chile
+Distance Travelled: 80 km
+Distance Left: 120 km
+Total Distance Travelled: 632
+Fuel required: 13
+
+[3J[H[2J|-------------------------------------------------X-------------------------------------------------|
+Completion: 50%
+
+Fuel: 86.5
+Hunger: 235
+From: Brazil
+Destination: Chile
+Distance Travelled: 100 km
+Distance Left: 100 km
+Total Distance Travelled: 650
+Fuel required: 13
+
+[3J[H[2J|-----------------------------------------------------------X---------------------------------------|
+Completion: 60%
+
+Fuel: 85.2
+Hunger: 234
+From: Brazil
+Destination: Chile
+Distance Travelled: 120 km
+Distance Left: 80 km
+Total Distance Travelled: 672
+Fuel required: 13
+
+[3J[H[2J|---------------------------------------------------------------------X-----------------------------|
+Completion: 70%
+
+Fuel: 83.9
+Hunger: 233
+From: Brazil
+Destination: Chile
+Distance Travelled: 140 km
+Distance Left: 60 km
+Total Distance Travelled: 698
+Fuel required: 13
+
+[3J[H[2J|-------------------------------------------------------------------------------X-------------------|
+Completion: 80%
+
+Fuel: 82.6
+Hunger: 232
+From: Brazil
+Destination: Chile
+Distance Travelled: 160 km
+Distance Left: 40 km
+Total Distance Travelled: 728
+Fuel required: 13
+
+[3J[H[2J|-----------------------------------------------------------------------------------------X---------|
+Completion: 90%
+
+Fuel: 81.3
+Hunger: 231
+From: Brazil
+Destination: Chile
+Distance Travelled: 180 km
+Distance Left: 20 km
+Total Distance Travelled: 762
+Fuel required: 13
+
+[3J[H[2J|---------------------------------------------------------------------------------------------------X
+Completion: 100%
+
+Fuel: 80
+Hunger: 230
+From: Brazil
+Destination: Chile
+Distance Travelled: 200 km
+Distance Left: 0 km
+Total Distance Travelled: 800
+Fuel required: 13
+
+4 days has passed. It is now day 55.
+
+Oh no, you crashed! You've wasted 4 days.
+Be sure to sleep for a decreased chance of crashing.
+You don't have any spare parts either, you are hiring a mechanic from the previous country to tow your car back for repair. It costs you $8000.
+You don't have enough money to hire a mechanic, you are stranded!
+
+Press 'Enter' to continue.
+You lost, try again!
